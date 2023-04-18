@@ -1,0 +1,20 @@
+[
+    {
+      "inputs": [
+        {
+          "internalType": "address payable",
+          "name": "employee",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "salary",
+          "type": "uint256"
+        }
+      ],
+      "name": "paySalary",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ]
